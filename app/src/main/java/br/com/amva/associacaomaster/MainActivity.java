@@ -11,7 +11,7 @@ import android.graphics.Color;
 
 public class MainActivity extends Activity {
     private WebView webView;
-    private static final String APP_URL = "https://piteradoradorg12.github.io/amva-app/?amva_version=55";
+    private static final String APP_URL = "https://piteradoradorg12.github.io/amva-app/?amva_version=552";
 
     @Override protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
